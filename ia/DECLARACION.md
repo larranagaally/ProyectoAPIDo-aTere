@@ -11,6 +11,7 @@ El uso de la Inteligencia Artificial en este proyecto se limitó a las siguiente
 - Depuración de Errores: Asistencia en la interpretación y resolución de mensajes de error de Visual Studio, MySQL y conexiones HTTP (configuración de puertos, referencias entre proyectos y uso de `localhost` en el emulador).
 - Diseño y Pruebas: Consulta de ideas para la paleta de colores, distribución de pantallas en .NET MAUI y estructuración de casos de prueba para Postman. 
 
+
 3. Declaración de Responsabilidad
 Los integrantes del equipo declaramos que:
 1. Comprendemos a cabalidad el funcionamiento de cada línea de código integrada en el repositorio.
