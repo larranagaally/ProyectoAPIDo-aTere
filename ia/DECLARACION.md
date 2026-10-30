@@ -14,6 +14,6 @@ El uso de la Inteligencia Artificial en este proyecto se limitó a las siguiente
 
 3. Declaración de Responsabilidad
 Los integrantes del equipo declaramos que:
-1. Comprendemos a cabalidad el funcionamiento de cada línea de código integrada en el repositorio.
-2. Todas las decisiones de diseño final, arquitectura, lógica de negocio y selección de componentes fueron tomadas de manera consciente por nosotros.
-3. Somos enteramente responsables de la funcionalidad, mantenimiento y defensa de cualquier fragmento de código o estructura incluida en el proyecto.
+- Comprendemos a cabalidad el funcionamiento de cada línea de código integrada en el repositorio.
+- Todas las decisiones de diseño final, arquitectura, lógica de negocio y selección de componentes fueron tomadas de manera consciente por nosotros.
+- Somos enteramente responsables de la funcionalidad, mantenimiento y defensa de cualquier fragmento de código o estructura incluida en el proyecto.
