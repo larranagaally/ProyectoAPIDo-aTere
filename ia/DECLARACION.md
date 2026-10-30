@@ -2,7 +2,6 @@
 
 1. Información General
 - Proyecto: Doña Tere 
-- Integrantes del Equipo: Emily Ortega y Angel Larrañaga]
 - Herramienta de IA utilizada:  Claude 
 
 2. Áreas de Aplicación de la IA
